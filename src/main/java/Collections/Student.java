@@ -1,8 +1,5 @@
 package Collections;
-
-import org.hibernate.annotations.Sort;
 import org.hibernate.annotations.SortComparator;
-import org.hibernate.annotations.SortNatural;
 
 import javax.persistence.*;
 import java.util.*;
