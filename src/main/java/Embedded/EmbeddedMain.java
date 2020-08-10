@@ -6,7 +6,7 @@ import org.hibernate.cfg.Configuration;
 
 import java.util.logging.Logger;
 
-public class Main {
+public class EmbeddedMain {
 
     public static void main(String[] args) {
 
